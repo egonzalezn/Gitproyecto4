@@ -1,1 +1,2 @@
-este es el fichero 2
+este es el fichero 2.
+cambio
